@@ -33,6 +33,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Redis-2496ED?style=plastic&logo=Redis&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;">
