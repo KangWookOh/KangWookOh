@@ -29,11 +29,12 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white">
           <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Redis-2496ED?style=plastic&logo=Redis&logoColor=white">
+          <img src="https://img.shields.io/badge/Kafka-2496ED?style=plastic&logo=Kafka&logoColor=white">
+
           <br/></div>
     </div>
     <div style="text-align: left;">
