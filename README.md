@@ -34,8 +34,8 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Redis-2496ED?style=plastic&logo=Redis&logoColor=white">
           <img src="https://img.shields.io/badge/Kafka-2496ED?style=plastic&logo=Kafka&logoColor=white">
-
           <br/></div>
+        
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
