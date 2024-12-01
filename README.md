@@ -36,7 +36,8 @@ Here are some ideas to get you started:
           <br/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-          <img src="https://img.shields.io/badge/amazonecs-FF9900?style=for-the-badge&logo=amazonecsL&logoColor=white">
+          <img src="https://img.shields.io/badge/amazonecs-FF9900?style=for-the-badge&logo=ecsL&logoColor=white">
+          <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=kafka&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
