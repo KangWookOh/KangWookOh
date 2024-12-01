@@ -37,7 +37,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
           <img src="https://img.shields.io/badge/amazonecs-FF9900?style=for-the-badge&logo=ecsL&logoColor=white">
-          <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=kafka&logoColor=white">
+          <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
