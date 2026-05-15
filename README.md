@@ -57,4 +57,76 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+**🐱 저의 GitHub 정보에요.** 
+
+> 📦 GitHub의 ?만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🏆 401 만큼의 Contributions을 2026년에 했어요
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 17개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 0개의 Private Repository를 만들었어요. 
+ > 
+**저는 아침형 인간이에요. 🐤** 
+
+```text
+🌞 아침                     215 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+🌆 낮　                     499 commits         ██████████████░░░░░░░░░░░   56.19 % 
+🌃 저녁                     133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌙 밤　                     41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+```
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      214 commits         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+화요일                      105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+수요일                      197 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+목요일                      232 commits         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+금요일                      111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+토요일                      9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+일요일                      20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
+
+🔥 에디터들: 
+이번 주에 활동은 없어요.
+
+🐱‍💻 프로젝트들: 
+이번 주에 활동은 없어요.
+
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
+```
+
+**저는 주로 Java 언어를 사용해요.** 
+
+```text
+Java                     13 repos            █████████████████░░░░░░░░   68.42 % 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**타임라인**
+
+![Lines of Code chart](https://raw.githubusercontent.com/KangWookOh/KangWookOh/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/05/2026 01:32:22 UTC
 <!--END_SECTION:waka-->
