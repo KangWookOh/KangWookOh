@@ -27,7 +27,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_COMMIT: "True"
-          MAX_CAP: "15"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
@@ -37,3 +36,44 @@ jobs:
           COMMIT_MESSAGE: "chore: update WakaTime stats"
           COMMIT_USERNAME: "KangWookOh"
           COMMIT_EMAIL: "kangwook.dev@gmail.com"
+
+      - name: Checkout repo for post-process
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Compact commit-time chart
+        run: |
+          git pull --rebase origin main
+          python3 - <<'PY'
+          import re, pathlib
+          p = pathlib.Path("README.md")
+          src = p.read_text(encoding="utf-8")
+          def shrink(line: str) -> str:
+              m = re.match(r"^(\S.*?\S)\s{2,}(\d+ commits)\s{2,}(\S+)\s{2,}(\d+\.\d+ %)\s*$", line)
+              if not m:
+                  return line
+              label, count, bar, pct = m.groups()
+              short_bar = bar[:15] if len(bar) > 15 else bar
+              return f"{label}  {count}  {short_bar}  {pct}"
+          out = []
+          in_block = False
+          for line in src.splitlines():
+              if "<!--START_SECTION:waka-->" in line:
+                  in_block = True
+              if "<!--END_SECTION:waka-->" in line:
+                  in_block = False
+              out.append(shrink(line) if in_block else line)
+          p.write_text("\n".join(out) + "\n", encoding="utf-8")
+          PY
+          if git diff --quiet README.md; then
+            echo "No changes to compact"
+            exit 0
+          fi
+          git config user.email "kangwook.dev@gmail.com"
+          git config user.name "KangWookOh"
+          git add README.md
+          git commit -m "chore: compact waka chart layout"
+          git push origin main
