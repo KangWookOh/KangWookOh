@@ -57,6 +57,16 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 03:54:11 UTC
+```text
+🌞 Morning                591 commits         ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌆 Daytime                1138 commits        ███████████████░░░░░░░░░░   59.27 % 
+🌃 Evening                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+```
+
+
+
+ Last Updated on 30/05/2026 03:36:59 UTC
 <!--END_SECTION:waka-->
