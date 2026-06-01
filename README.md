@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1240 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌆 Daytime                2353 commits        ███████████████░░░░░░░░░░   61.60 % 
-🌃 Evening                185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+🌞 Morning  1240 commits  ████████░░░░░░░  32.46 %
+🌆 Daytime  2353 commits  ███████████████  61.60 %
+🌃 Evening  185 commits  █░░░░░░░░░░░░░░  04.84 %
+🌙 Night  42 commits  ░░░░░░░░░░░░░░░  01.10 %
 ```
 
 
