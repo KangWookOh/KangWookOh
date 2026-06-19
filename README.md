@@ -52,7 +52,12 @@ Here are some ideas to get you started:
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+    <div align="center">
+        <a href="https://github.com/devxb/gitanimals">
+            <img src="https://render.gitanimals.org/farms/KangWookOh" alt="gitanimals farm"/>
+        </a>
+    </div>
     </div>
 </div>
 
