@@ -36,7 +36,6 @@ NestJS · Spring 기반의 모노레포와 MSA를 주로 다루고, 최근에는
           <br/><br/>
           <b>Backend</b><br/>
           <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-          <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
           <br/><br/>
           <b>Frontend</b><br/>
