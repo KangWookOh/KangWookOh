@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 About me
+백엔드를 중심으로 서비스가 실제로 굴러가는 구조에 관심이 많은 개발자입니다.
+NestJS · Spring 기반의 모노레포와 MSA를 주로 다루고, 최근에는 Kotlin으로 반경을 넓히는 중입니다.
+
+### 🧭 What I value
+- **읽히는 코드 > 똑똑한 코드** — 6개월 뒤의 내가 이해할 수 있는 코드를 씁니다.
+- **작게 나눠 리뷰받기** — 큰 PR보다 리뷰 사이클이 도는 PR을 선호합니다.
+- **문서도 코드다** — README와 커밋 메시지가 히스토리를 대신 말하게 합니다.
+- **먼저 굴려보고 다듬기** — 완벽한 설계보다 돌아가는 코드를 먼저, 그 다음에 정리.
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <div style="text-align: left;">
