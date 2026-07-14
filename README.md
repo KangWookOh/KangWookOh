@@ -72,6 +72,14 @@ NestJS · Spring 기반의 모노레포와 MSA를 주로 다루고, 최근에는
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center">
+        <a href="https://gitfut.com/KangWookOh">
+        <img
+          src="https://gitfut.com/KangWookOh.png"
+          alt="KangWookOh GitFut card"
+          width="600"
+        />
+        </a>
+        <br/><br/>
         <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KangWookOh&utm_content=farm">
         <img
           src="https://render.gitanimals.org/farms/KangWookOh"
