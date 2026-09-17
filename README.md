@@ -86,10 +86,10 @@ NestJS · Spring 기반의 모노레포와 MSA를 주로 다루고, 최근에는
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16859 commits       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌆 Daytime                32903 commits       ████████████████░░░░░░░░░   63.11 % 
-🌃 Evening                2328 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌙 Night                  50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+🌞 Morning  16859 commits  ████████░░░░░░░  32.33 %
+🌆 Daytime  32903 commits  ███████████████  63.11 %
+🌃 Evening  2328 commits  █░░░░░░░░░░░░░░  04.46 %
+🌙 Night  50 commits  ░░░░░░░░░░░░░░░  00.10 %
 ```
 
 
